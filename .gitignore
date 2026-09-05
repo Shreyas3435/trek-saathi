@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Backend (see backend/.gitignore for details)
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.env
+
+# Frontend (see frontend/.gitignore for details)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
